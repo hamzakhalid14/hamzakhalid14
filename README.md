@@ -11,6 +11,8 @@
 
 - 🌱 I’m currently learning **RubyonRails,Express.js,Node.js...**
 
+- 👨‍💻 All of my projects are available at [https://troopl.com/hamzakhalid](https://troopl.com/hamzakhalid)
+
 - 💬 Ask me about **javascript,php,ruby...**
 
 - 📫 How to reach me **hamzakhalidovic@gmail.com**
