@@ -9,7 +9,7 @@
 
 🎯 **À propos de moi**
 
-- 💼 Actuellement **Développeur Full Stack chez Peaqock** (depuis 01/2025), spécialisé dans la création d'un module CRM pour un ERP interne avec **React, Spring Boot, et REST API**.
+- 💼 Actuellement **Développeur Full Stack chez Peaqock** (depuis 05/2025), spécialisé dans la création d'un module CRM pour un ERP interne avec **React, Spring Boot, et REST API**.
 - 🌱 En parallèle, je me perfectionne en **architecture logicielle** et **DevOps**.
 - 🚀 Passionné par la conception de solutions web performantes et centrées sur l'expérience utilisateur.
 - 📌 Ouvert à des collaborations innovantes ou missions freelance.
